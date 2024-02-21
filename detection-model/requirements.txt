@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+joblib
+Flask
+os
+tensorflow
+requests
+subprocess
+keras
+socket
